@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Dados locais e arquivos grandes (evitar versionar dumps pesados)
+*.csv
+*.parquet
+*.orc
+*.avro
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.bak
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+*.pem
+*.key
+*credentials*.json
+*service-account*.json
+
+# IDEs e Sistema Operacional
+.DS_Store
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+
+# Logs e temporários
+*.log
+logs/
+tmp/
+temp/
