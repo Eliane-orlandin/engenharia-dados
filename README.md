@@ -14,7 +14,7 @@ Repositório dedicado à organização de estudos, anotações, scripts, exercí
 - [ ] Funções de agregação, data e manipulação de strings
 - [ ] Views, Procedures e Triggers
 
-📘 Material de consulta: [Guia de SQL](./01-sql/guia-sql.md).
+📘 Material de consulta: [Guia de SQL](./01-sql/guia-sql.md) · [Guia de convenções](./01-sql/guia-convencoes.md).
 
 ### 2. [Bancos de Dados](./02-bancos-de-dados)
 - **Conceitos & Arquitetura**
@@ -81,7 +81,8 @@ Repositório dedicado à organização de estudos, anotações, scripts, exercí
 ```text
 ├── 01-sql/
 │   ├── documentos/       # PDFs da plataforma (não versionados)
-│   └── guia-sql.md       # guia de referência rápida
+│   ├── guia-sql.md       # guia de referência rápida
+│   └── guia-convencoes.md # convenções de estilo SQL
 ├── 02-bancos-de-dados/
 │   ├── indices-e-normalizacao/
 │   ├── modelagem-relacional/

@@ -46,6 +46,7 @@ logs/
 tmp/
 temp/
 
-# Skills de agentes (instalação local, não versionada)
+# Configuração local de agentes (não versionada)
+CLAUDE.md
 .agents/
 .claude/skills/
