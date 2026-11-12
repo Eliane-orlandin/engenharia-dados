@@ -22,6 +22,9 @@ ENV/
 *.dump
 *.bak
 
+# PDFs de terceiros (DataCamp): manter apenas localmente
+01-sql/documentos/
+
 # Variáveis de ambiente e credenciais
 .env
 .env.*
@@ -42,3 +45,7 @@ Thumbs.db
 logs/
 tmp/
 temp/
+
+# Skills de agentes (instalação local, não versionada)
+.agents/
+.claude/skills/

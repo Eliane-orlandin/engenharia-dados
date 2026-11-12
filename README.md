@@ -14,6 +14,8 @@ Repositório dedicado à organização de estudos, anotações, scripts, exercí
 - [ ] Funções de agregação, data e manipulação de strings
 - [ ] Views, Procedures e Triggers
 
+📘 Material de consulta: [Guia de SQL](./01-sql/guia-sql.md).
+
 ### 2. [Bancos de Dados](./02-bancos-de-dados)
 - **Conceitos & Arquitetura**
   - [ ] Modelagem Relacional (Conceitual, Lógica e Física)
@@ -78,8 +80,8 @@ Repositório dedicado à organização de estudos, anotações, scripts, exercí
 
 ```text
 ├── 01-sql/
-│   ├── consultas/
-│   └── exercicios/
+│   ├── documentos/       # PDFs da plataforma (não versionados)
+│   └── guia-sql.md       # guia de referência rápida
 ├── 02-bancos-de-dados/
 │   ├── indices-e-normalizacao/
 │   ├── modelagem-relacional/
@@ -122,6 +124,7 @@ Repositório dedicado à organização de estudos, anotações, scripts, exercí
 │   ├── containers/
 │   ├── docker-compose/
 │   └── dockerfile/
+├── CLAUDE.md
 └── projetos/
 ```
 
